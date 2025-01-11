@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Cohegen
-- 👀 I’m interested in Artificial Intelligence
+- 👀 Aspiring Machine Learning Expert|Data Enthusiast|Tech Innovator
 - 🌱 I’m currently learning  Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
 - 
   ⚡ Fun fact: ...
 
