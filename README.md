@@ -27,7 +27,10 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 
 - **Cloud**:  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+  ## AI Scientist Quote
+  "One of the great challenges of AI is to figure out how to combine the power of deep learning with richness of human knowledge." - Andrej Karpathy
 
 <!---
 Cohegen/Cohegen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
