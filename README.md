@@ -32,7 +32,9 @@
   ## AI Scientist Quote
   "One of the great challenges of AI is to figure out how to combine the power of deep learning with richness of human knowledge." - Andrej Karpathy
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cohegen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Cohegen"/>
+
+<img alt ="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cohegen&layout=compact"/>
 <!---
 Cohegen/Cohegen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
