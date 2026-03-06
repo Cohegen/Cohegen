@@ -1,4 +1,4 @@
-### Hi 👋, I'm Prince an ML Research Engineer and the MLX King 👑
+### Hi 👋, I'm Antonius a Computer Science Student 
 
 <!--
 **Cohegen/Cohegen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cohegen&theme=dark&show_icons=true&include_all_commits=true" alt="Prince Canuma"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cohegen&theme=dark&show_icons=true&include_all_commits=true" alt="Antonius"/>
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cohegen&&theme=github-compact" alt="Antonius' github activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cohegen&&theme=github-compact" alt="Antonius github activity graph"/>
 
 <p align="center"> 
 <img src="https://github-profile-trophy.vercel.app/?username=Cohegen&theme=algolia&column=-1" alt="Antonius" /></a> </p>
