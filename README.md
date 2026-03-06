@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <hr/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blaizzy&label=Profile%20views&style=for-the-badge" alt="Antonius"/>
+  <img src="https://komarev.com/ghpvc/?username=Cohegen&label=Profile%20views&style=for-the-badge" alt="Antonius"/>
 </p>
 <hr/>
