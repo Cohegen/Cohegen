@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **NanoTorch**
 
-- 🌱 I'm currently learning **C++, Deep Learning and CUDA**
+- 🌱 I'm currently learning **C++, Deep Learning,CUDA and some bit of Graphics programming**
 
 - 👯 I'm looking to collaborate on **NanoTorch.cpp**
 
