@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on Implementing a RayTracer<br>
+I like building stuff <br>
 
 
 # 💻 Tech Stack:
